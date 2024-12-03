@@ -1,6 +1,6 @@
 ## Welcome
 - 🎓 I'm Marko, an Computer Engineering student
-- 🖥 Focusing on back-end I'm in the depths of programming waters
+- 🖥 My main focus is back-end but I like to do some front-end now and then
 - 📍From Serbia, now based in Belgrade since 2021.
 - 👨‍💻 **Currently looking for a job**
 
