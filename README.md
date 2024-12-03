@@ -1,16 +1,33 @@
-## Hi there 👋
+## Welcome
+- 🎓 I'm Marko, an Computer Engineering student
+- 🖥 Focusing on back-end I'm in the depths of programming waters
+- 📍From Serbia, now based in Belgrade since 2021.
+- 👨‍💻 **Currently looking for a job**
 
-<!--
-**yanedev/yanedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 
+Here are the technologies and tools I work with:
+- Languages: Java, C++, C#, JS, PHP, HTML/CSS, Python
+- Frameworks: JavaFX, Bootstrap, Java Spring (currently learning)
+- Tools: IntelliJ IDEA, Maven, Gradle, Docker, Github
+- Databases: MySQL
+- Postman API Fundamentals Student Expert
 
-Here are some ideas to get you started:
+## Few honorable project mentions 
+#### *They are all private, if you are interested I can share them*
+- Knjigovodja Jr.
+  - An **JavaFX** app made for my brother to help him with **accounting**
+  - Build using JavaFX for GUI, **ApachePoi** and **FreeSpire.XLS** for easier generation of *Office files*
+- **Kotlin** shop app for android
+- **C#** desktop app for ordering food
+- **C#** console app for simulating an basketball tournament
+- **Python** discord bot for *fun*
+#### *In development*
+- **PHP** website
+  - An website for displaying information about [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) servers hosted by an acquaintance
+- *Newest project I'm currently working on right now*
+  - In develompent using JavaFX, Spring Boot and Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+#### *If you need more informations, help or have a project in mind I could help*
+- Email: janovicmarko00@gmail.com
+- LinedIn: [Marko Janovic](https://www.linkedin.com/in/marko-janovi%C4%87-94535b26b)
