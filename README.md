@@ -34,4 +34,4 @@ Here are the technologies and tools I work with:
 ## Contact me
 #### *If you'd like more information, need help, or have a project in mind I could contribute to, feel free to reach out.*
 - Email: janovicmarko00@gmail.com
-- LinedIn: [Marko Janovic](https://www.linkedin.com/in/marko-janovi%C4%87-94535b26b)
+- LinkedIn: [Marko Janovic](https://www.linkedin.com/in/marko-janovi%C4%87-94535b26b)
