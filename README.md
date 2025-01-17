@@ -2,7 +2,7 @@
 - 🎓 I'm Marko, a Computer Engineering student
 - 🖥 My main focus is back-end development, but I occasionally enjoy doing some front-end work
 - 📍From Serbia, now based in Belgrade since 2021.
-- 👨‍💻 **Currently looking for a job**
+- 👨‍💻 **Currently on an internship in Digital Cube**
 
 ## Skills 
 Here are the technologies and tools I work with:
