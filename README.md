@@ -5,11 +5,11 @@
 - 👨‍💻 **Currently on an internship in Digital Cube**
 
 ## Skills 
-Here are the technologies and tools I work with:
-- Languages: Java, C++, C#, JS, PHP, HTML/CSS, Python
-- Frameworks: JavaFX, Bootstrap, Java Spring (currently learning)
-- Tools: IntelliJ IDEA, Maven, Gradle, Docker, Github
-- Databases: MySQL
+Here are the technologies and tools I work currently with:
+- Languages: Python
+- Frameworks: Tornado, FastAPI
+- Tools: Pycharm, Docker, Github
+- Databases: PSQL, Sqlite
 - Postman API Fundamentals Student Expert
 
 ## Quick Look at a Few Honorable Project Mentions
@@ -25,11 +25,6 @@ Here are the technologies and tools I work with:
   - A competitive player-vs-player game about *Geography*
   - Players are given a random letter, and each must name a country, town, name, etc. starting with that letter.
   - The app checks if the entered concepts are valid and awards points accordingly.
-#### *In development*
-- **PHP** website
-  - A website for displaying information about [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) servers hosted by an acquaintance
-- *My Newest Project*
-  - Currently in development using JavaFX, Spring Boot, and Docker
 
 ## Contact me
 #### *If you'd like more information, need help, or have a project in mind I could contribute to, feel free to reach out.*
