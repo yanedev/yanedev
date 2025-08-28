@@ -5,7 +5,7 @@
 - 👨‍💻 **Currently on an internship in Digital Cube**
 
 ## Skills 
-Here are the technologies and tools I work currently with:
+Here are the technologies and tools I currently work with:
 - Languages: Python
 - Frameworks: Tornado, FastAPI
 - Tools: Pycharm, Docker, Github
