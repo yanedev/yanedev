@@ -5,12 +5,12 @@
 - 👨‍💻 **Currently on an internship in Digital Cube**
 
 ## Skills 
-Here are the technologies and tools I currently work with:
-- Languages: Python
-- Frameworks: Tornado, FastAPI
-- Tools: Pycharm, Docker, Github
-- Databases: PSQL, Sqlite
-- Postman API Fundamentals Student Expert
+- Programming Languages: Python (asyncio, advanced usage)
+- Frameworks & Libraries: FastAPI, Tornado, Tortoise ORM, asyncpg
+- Databases: PostgreSQL, SQLite, data migration & indexing (OpenSearch)
+- API Development: REST API design, Postman (API Fundamentals Student Expert), Swagger/OpenAPI
+- DevOps & Tools: Docker, Linux server administration, Git/GitHub, CI/CD (GitHub Actions)
+- Other Expertise: ETL processes, JSON data transformation,
 
 ## Quick Look at a Few Honorable Project Mentions
 #### *All projects are private, but I can share them if you're interested.*
